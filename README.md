@@ -1,5 +1,7 @@
 # dsh-source-preservation-guidance
 
+This release requires DSH 0.2.1-alpha.1 or a compatible 0.2 release. See [compatibility details](docs/dsh-0.2-compatibility.md).
+
 将私有插件优先和官方代码保护规则注入 DSH。
 
 ## 安装

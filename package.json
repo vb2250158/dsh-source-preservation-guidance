@@ -1,6 +1,6 @@
 {
   "name": "dsh-source-preservation-guidance",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "type": "module",
   "main": "lib/index.js",
   "exports": {
@@ -12,7 +12,8 @@
     "cordis.patch.yml",
     "README.md",
     "LICENSE",
-    "tests"
+    "tests",
+    "docs"
   ],
   "license": "MIT",
   "repository": {
@@ -30,5 +31,6 @@
   },
   "scripts": {
     "test": "node --test tests/*.test.mjs"
-  }
+  },
+  "peerDependencies": {}
 }
